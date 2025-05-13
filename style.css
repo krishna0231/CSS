@@ -1,0 +1,45 @@
+ p {
+    text-align:  start;
+    text-decoration: red;
+ }
+ h1 {
+    text-align: center;
+    text-decoration: wavy underline;
+ }
+ h1 {
+    color: brown;
+    text-decoration: red underline;
+ }
+ button {
+    background-color: gold;
+    color: blue;
+}
+a {
+    text-decoration: green wavy dotted underline
+}
+#h1
+{
+    font-weight: normal;
+}
+h2{
+ font-weight: lighter;
+}
+h3 {
+    font: weight 400px;
+}
+#one
+{
+    font-family:Arial;
+    font-size: 25px;
+    line-height: normal;
+    text-transform: uppercase;
+
+
+}
+#two
+{
+    font-family: 'Segoe UI', sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+
+;
+}
+ 
