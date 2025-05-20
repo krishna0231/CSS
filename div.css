@@ -1,15 +1,32 @@
 div {
-    height: 100px;
-    width: 100px;
-    background-color: pink;
-    border-width: 2px;
-    border-style: solid;
-    border-color: brown;
-    border: 2px solid brown;
-    border-radius: 50%;
-    text-align: right;
-    padding: 25px;
-    margin-top: 25px;
+   
+height: 50px;
+width: 50px;
+display: inline-block;
+border: 2px solid black;
+text-align: center;
 
-
+}
+#container {
+    width:800px;
+    height:500px;
+    display: flex;
+   flex-direction:row;
+   justify-content: space-between;
+   
+}
+#box1 {
+    background-color: red;
+}
+#box2 {
+    background-color: green;
+}
+#box3 {
+    background-color: blue;
+}
+#box4 {
+    background-color: yellow;
+}
+#box5 {
+    background-color: purple;
 }

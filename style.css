@@ -1,5 +1,17 @@
-div {
-    border: 100px;
+#box1 {
     height: 100px;
-    s
+    width: 100px;
+    background-color: red;
+}
+#box2 {
+    height: 50px;
+    width: 30%
+    background-color: blue;
+    margin-left 10%;
+}
+body {
+    background-image: url("sunset_photo.jpg.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
